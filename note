@@ -1,0 +1,8 @@
+Create a DB by name;
+Open the DB by name;
+Delete the DB by name;
+Clear DB;
+Add an entry;
+Search an entry inside DB by the title of a book;
+Delete an entry inside DB by the title of a book;
+Edit a found entry;
